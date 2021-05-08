@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /images
-Disallow: contact.php
-Disallow: privacy.php
-Disallow: terms.php
